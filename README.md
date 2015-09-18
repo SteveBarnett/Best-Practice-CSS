@@ -10,3 +10,4 @@ Idea: present a series of bad things, and show how to fix them.
 2. [Write as little CSS as possible](write-as-little-css-as-possible.md)
 3. [Use meaningful class names](use-meaningful-class-names.md)
 4. [Format for readability](format-for-readability.md)
+5. [Provide fallbacks](provide-fallbacks.md)
