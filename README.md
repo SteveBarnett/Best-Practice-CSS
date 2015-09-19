@@ -11,3 +11,4 @@ Idea: present a series of bad things, and show how to fix them.
 3. [Use meaningful class names](use-meaningful-class-names.md)
 4. [Format for readability](format-for-readability.md)
 5. [Provide fallbacks](provide-fallbacks.md)
+6. [Be fluid](be-fluid.md)
