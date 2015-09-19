@@ -14,3 +14,7 @@ Every browser applies the first rule. Browsers that understand `rgba` will apply
 [Can I Use](http://caniuse.com/) is an excellent resources for checking support for a particular CSS (or JavaScript) feature. [Modernizr](https://modernizr.com/) is a excellent JavaScript library that provides a set of tests for CSS (and JavaScript) support of features.
 
 TODO: change this to always supply `background-color`? More of a design for failure of CSS them (e.g. animations)?
+
+Karen says:
+
+> cool, some thoughts on this one, a short table summary of which browsers/versions to care about? Maybe which are easy to cater for, which are a pain (I'm sure IE is in there ;)
