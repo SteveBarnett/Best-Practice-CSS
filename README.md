@@ -12,3 +12,4 @@ Idea: present a series of bad things, and show how to fix them.
 4. [Format for readability](format-for-readability.md)
 5. [Provide fallbacks](provide-fallbacks.md)
 6. [Be fluid](be-fluid.md)
+7. [Use Media Queries the right way](use-media-queries-the-right-way.md)
