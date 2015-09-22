@@ -13,3 +13,4 @@ Idea: present a series of bad things, and show how to fix them.
 5. [Provide fallbacks](provide-fallbacks.md)
 6. [Be fluid](be-fluid.md)
 7. [Use Media Queries the right way](use-media-queries-the-right-way.md)
+8. [Don't use inline styles](dont-use-inline-styles.md)
